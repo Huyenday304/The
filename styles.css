@@ -712,20 +712,20 @@ body {
 
 .leaf {
   position: absolute;
-  background: url(images/leaf\ 1.png)
+  background: url(images/leaf 1.png)
     no-repeat center;
   background-size: cover;
 }
 .cotton {
   position: absolute;
-  background: url(images/cotton\ 1.png)
+  background: url(images/cotton 1.png)
     no-repeat center;
   background-size: cover;
 }
 
 .paper {
   position: absolute;
-  background: url(images/paper\ 1.png)
+  background: url(images/paper 1.png)
     no-repeat center;
   background-size: cover;
 }
@@ -756,7 +756,7 @@ body {
 
 .leaf-thin {
   position: absolute;
-  background: url(images/leaf\ 3.png)
+  background: url(images/leaf 3.png)
     no-repeat center;
   background-size: cover;
 }
